@@ -11,3 +11,6 @@ Docs for AWS Boto3: https://boto3.amazonaws.com/v1/documentation/api/latest/refe
 
 What PyPI says: 
 https://pypi.org/project/boto3/
+
+Amazon Addition: 
+https://aws.amazon.com/sdk-for-python/
