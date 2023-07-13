@@ -14,3 +14,8 @@ https://pypi.org/project/boto3/
 
 Amazon Addition: 
 https://aws.amazon.com/sdk-for-python/
+
+Example:
+
+Hello Amazon EC2: 
+
