@@ -17,6 +17,7 @@ https://aws.amazon.com/sdk-for-python/
 
 Example:
 
+```
 Hello Amazon EC2: 
 
 import boto3
@@ -37,3 +38,4 @@ def hello_ec2(ec2_resource):
 
 if __name__ == '__main__':
     hello_ec2(boto3.resource('ec2'))
+```
